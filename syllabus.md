@@ -1,3 +1,6 @@
+Syllabus
+===============
+
 \[Syllabus date -- 5/18/20\]
 
 Instructor Information
@@ -197,7 +200,19 @@ Assignments/Assessment
 Assessment Schedule and Assessment
 ----------------------------------
 
+| **Assignment**                                                            | **Point value per assignment**  | **Due by**         | **Percentage of Final Grade** |
+| ------------------------------------------------------------------------- | ------------------------------- | ------------------ | ----------------------------- |
+| Participation in Online Discussion Forums (minimum 10 weekly discussions) | 12 points per discussion week   | Every class week   | 10%                           |
+| Class exercises                                                           | 3 points per exercise           | Multiple weeks     | 10% total                     |
+| Section Quizzes                                                           | 20 points per quiz              | Weeks 4, 8, 11, 14 | 20% total                     |
+| Visualization Makeover                                                    | 9 points                        | Week 9             | 15%                           |
+| Interim assignments for final project                                     | 3 points per interim assignment | Weeks 4, 7, 11     | 10% total                     |
+| Final Project – Policy Brief                                              | 25 points                       | Week 14            | 35%                           |
+
 **NB - There will be no extra credit opportunities in this course.**
+
+Brief Assignment Descriptions
+----------------------------------
 *Full instructions and rubrics for each assignment will be posted in Canvas.*
 
 **Class Exercises**

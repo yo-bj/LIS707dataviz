@@ -28,6 +28,11 @@ Brief descriptions of the files in this repo -
 - There will be some data files in the assignments folder that cannot be included in this repo due to licensing restrictions. I will do my best in giving folks information as to how to get access to the files when this is the case.
 - Watch out for any grammatical errors or word omissions. 
 
+# TODO 
+
+- Upload exercises + assignments
+- Upload discussion questions
+
 # Acknowledgements 
 
 Many thanks to Bronwen Masemann for the foundation of the syllabus. 

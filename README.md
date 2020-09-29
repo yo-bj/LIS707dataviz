@@ -21,6 +21,8 @@ Brief descriptions of the files in this repo -
     - Week 11: Dashboards: What They Are and How They Are Used
     - Week 12: Combining Open Data and Other Data Sources in Data Visualizations
     - Week 13: Where Do We Go From Here
+  -syllabi folder
+    - Contains the PDFs of present and past versions of the syllabus, including reading lists 
 
 # Caveats 
 
@@ -32,6 +34,7 @@ Brief descriptions of the files in this repo -
 
 - Upload exercises + assignments
 - Upload discussion questions
+- Clean up text and formatting in unit files
 
 # Acknowledgements 
 

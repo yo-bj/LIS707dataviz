@@ -1,6 +1,6 @@
 # Course Materials for Data Visualization for Communication and Decision Making
 
-This repo contains the syllabus and supplimental files for LIS 707 Data Visualization for Communication and Decision Making at UW-Madison. 
+This repo contains the syllabus and supplimental files for LIS 707 Data Visualization for Communication and Decision Making at University of Wisconsin - Madison, created by [Becky Yoose](https://yobj.net). 
 
 Brief descriptions of the files in this repo - 
 
@@ -39,5 +39,9 @@ Brief descriptions of the files in this repo -
 # Acknowledgements 
 
 Many thanks to Bronwen Masemann for the foundation of the syllabus. 
+
+# License
+
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
 
